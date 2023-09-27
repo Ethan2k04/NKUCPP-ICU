@@ -1,4 +1,4 @@
-# 从"Hello World"开始
+# 从"Hello World"开始编程之旅😘
 
-> An awesome project.
+> 目标：在控制台终端显示文字"Hello World"
 
