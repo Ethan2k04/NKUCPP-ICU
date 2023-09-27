@@ -2,4 +2,6 @@
 
 * [首页](/)
 
-* [快速开始](quick_start.md)
+* [快速开始](quickstart.md)
+
+* [常见错误](common_mistake.md)
