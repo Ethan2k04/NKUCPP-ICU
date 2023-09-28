@@ -2,6 +2,6 @@
 
 * [首页](/)
 
-* [快速开始](quickstart/README.md)
+* [快速开始](quickstart/)
 
-* [常见错误](common_mistake/README.md)
+* [常见错误](common_mistake/)
