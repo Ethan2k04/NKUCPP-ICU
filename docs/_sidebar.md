@@ -2,6 +2,6 @@
 
 * [首页](/)
 
-* [快速开始](quickstart/)
+* [快速开始](/quickstart/)
 
-* [常见错误](common_mistake/)
+* [常见错误](/common_mistake/)
