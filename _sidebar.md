@@ -2,6 +2,10 @@
 
 - [首页](/)
 
-- [快速开始](/quickstart/)
+- [新手入门](/quickstart/)
 
-- [常见错误](/common_mistake/)
+- [常见bug](/common_mistake/)
+
+- [OJ题目解析](/nku_oj/)
+
+- [c++底层原理](/how_it_works/)
