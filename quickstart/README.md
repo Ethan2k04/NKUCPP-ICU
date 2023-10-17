@@ -28,9 +28,9 @@ cout << "Hello World!";
 
 |         语法         |                                   解释                                    |
 | :------------------: | :-----------------------------------------------------------------------: |
-| #include\<iostream\> |        意思是引入 iostream 库，即输入输出流库。([关于#include]())         |
-| using namespace std  | 使用`std`命名空间，`namespace`是一个 C++中的一个关键字([关于 namespace]()) |
-|     int main(){}     |                              主函数默认写法                               |
-|       cout <<        |             输出流，可以将内容打印在屏幕上([关于 iostream]())             |
-|    "Hello World!"    |                                字符串常量                                 |
-|      return 0;       |           主函数的返回类型为`int`，所以返回一个`int`型(`return 0`)           |
+| `#include<iostream>` |        意思是引入`iostream`库，即输入输出流库。([关于#include]())         |
+| `using namespace std;`  | 使用`std`命名空间，`namespace`是一个 C++ 中的一个关键字([关于 namespace]()) |
+|     `int main(){}`     |                              主函数默认写法                               |
+|       `cout <<`        |             输出流，可以将内容打印在屏幕上([关于 iostream]())             |
+|    `"Hello World!"`    |                                字符串常量                                 |
+|      `return 0;`       |           主函数的返回类型为`int`，所以返回一个`int`型(`return 0`)           |
